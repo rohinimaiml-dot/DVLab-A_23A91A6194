@@ -1,7 +1,7 @@
 #load the dataset
 data(iris)
 
-#inspect the data
+#inspects the data
 ?iris
 View(iris)
 str(iris)
