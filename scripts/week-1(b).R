@@ -27,3 +27,4 @@ ggplot(
        x="temp distribution",
        y="Frequency")+
   theme_light()
+
